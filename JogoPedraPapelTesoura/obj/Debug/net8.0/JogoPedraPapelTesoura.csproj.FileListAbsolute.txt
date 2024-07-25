@@ -1,0 +1,14 @@
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\net8.0\JogoPedraPapelTesoura.exe
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\net8.0\JogoPedraPapelTesoura.deps.json
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\net8.0\JogoPedraPapelTesoura.runtimeconfig.json
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\net8.0\JogoPedraPapelTesoura.dll
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\net8.0\JogoPedraPapelTesoura.pdb
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.AssemblyInfoInputs.cache
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.AssemblyInfo.cs
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.csproj.CoreCompileInputs.cache
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.dll
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\refint\JogoPedraPapelTesoura.dll
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.pdb
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\JogoPedraPapelTesoura.genruntimeconfig.cache
+c:\Users\berna\Desktop\Programação\C#\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\net8.0\ref\JogoPedraPapelTesoura.dll
